@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e6cb316f3c1c64256405a89be36d4a4ebc34cad8ddcde1e809b49e2c522d57f9"
+            "sha256": "39e76dc8ef6ce511a5f8240b110521f072ca62ee8ad23c27ccefdcc34ca00657"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.6"
+            "python_version": "3.7"
         },
         "sources": [
             {
@@ -200,10 +200,10 @@
         },
         "notebook": {
             "hashes": [
-                "sha256:18a98858c0331fb65a60f2ebb6439f8c0c4defd14ca363731b6cabc7f61624b4",
-                "sha256:cc027a62be0f7756e0ef3d2d98458c4d7f4b3566449fb1a05891207f5bd9a1bf"
+                "sha256:19df5755bc21bb1f711e6415f6f620bf7c71cb6c8318a25bc151fe31bdfe4047",
+                "sha256:76758631f037ec09afb56b75e20a0502ca3a8c5d3a61d675d4b9bd5c84c7ce7f"
             ],
-            "version": "==5.7.6"
+            "version": "==5.7.7"
         },
         "numpy": {
             "hashes": [
