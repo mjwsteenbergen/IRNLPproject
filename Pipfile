@@ -12,6 +12,7 @@ jupyterlab = "*"
 pandas = "*"
 xgboost = "*"
 graphviz = "*"
+imbalanced-learn = "*"
 
 [dev-packages]
 
