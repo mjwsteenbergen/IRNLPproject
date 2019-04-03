@@ -11,6 +11,7 @@ nltk = "*"
 jupyterlab = "*"
 pandas = "*"
 xgboost = "*"
+graphviz = "*"
 
 [dev-packages]
 
