@@ -13,6 +13,7 @@ pandas = "*"
 xgboost = "*"
 graphviz = "*"
 imbalanced-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
